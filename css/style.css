@@ -164,8 +164,8 @@ opacity: 0;
   display: block;
 }
 
-.header .main-section-div{
-  margin-top: 150px;
+.header .main-section-div .main-section-text{
+  margin-top: 130px;
 }
 
 .header .main-section-div h6{
@@ -175,7 +175,7 @@ opacity: 0;
 }
 .header .vert-move{
   position: absolute;
-  left: 140px;
+  left: 130px;
   top: 0px;
   width: 200px;
   height: 250px;
@@ -190,7 +190,7 @@ opacity: 0;
   height: 50px;
   position: absolute;
   left: 120px;
-  top: 140px;
+  top: 270px;
 
 
   
